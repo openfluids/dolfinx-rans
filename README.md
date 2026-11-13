@@ -10,7 +10,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![DOLFINx](https://img.shields.io/badge/DOLFINx-0.10.0+-green.svg)](https://fenicsproject.org/)
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://python.org/)
 
 A finite element RANS solver implementing the Wilcox (2006) standard k-ω and Menter (1994) k-ω SST turbulence models.
 Use it as-is for turbulent channel flow, or as a validated foundation for extending to other geometries.
