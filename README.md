@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="assets/dolfinx-rans-readme-banner.png" alt="dolfinx-rans README banner" width="100%">
-</p>
+![dolfinx-rans banner](https://raw.githubusercontent.com/openfluids/dolfinx-rans/main/assets/dolfinx-rans-readme-banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![DOLFINx](https://img.shields.io/badge/DOLFINx-0.10.0+-green.svg)](https://fenicsproject.org/)
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://python.org/)
 
-# dolfinx-rans
-
-**A modern RANS k-ω turbulence solver for DOLFINx/FEniCSx 0.10+.**
+`dolfinx-rans` is a modern RANS k-ω turbulence solver for DOLFINx/FEniCSx 0.10+.
 
 > **Status (October 2026):** this project is not under active development. Issues and pull requests may not get an answer.
 
