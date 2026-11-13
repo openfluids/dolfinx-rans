@@ -2,15 +2,15 @@
   <img src="assets/dolfinx-rans-readme-banner.png" alt="dolfinx-rans README banner" width="100%">
 </p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DOLFINx](https://img.shields.io/badge/DOLFINx-0.10.0+-green.svg)](https://fenicsproject.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://python.org/)
+
 # dolfinx-rans
 
 **A modern RANS k-ω turbulence solver for DOLFINx/FEniCSx 0.10+.**
 
 > **Status (October 2026):** this project is not under active development. Issues and pull requests may not get an answer.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![DOLFINx](https://img.shields.io/badge/DOLFINx-0.10.0+-green.svg)](https://fenicsproject.org/)
-[![Python](https://img.shields.io/badge/Python-3.11+-yellow.svg)](https://python.org/)
 
 A finite element RANS solver implementing the Wilcox (2006) standard k-ω and Menter (1994) k-ω SST turbulence models.
 Use it as-is for turbulent channel flow, or as a validated foundation for extending to other geometries.
@@ -230,7 +230,7 @@ cd dolfinx-rans
 uv pip install -e .
 
 # Or install directly from GitHub
-uv pip install git+https://github.com/ricardofrantz/dolfinx-rans.git
+uv pip install git+https://github.com/openfluids/dolfinx-rans.git
 ```
 
 **Alternative: pip install**
@@ -239,7 +239,7 @@ uv pip install git+https://github.com/ricardofrantz/dolfinx-rans.git
 conda activate fenicsx
 pip install -e .
 # or
-pip install git+https://github.com/ricardofrantz/dolfinx-rans.git
+pip install git+https://github.com/openfluids/dolfinx-rans.git
 ```
 
 ### Requirements Summary
