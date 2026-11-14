@@ -1,4 +1,4 @@
-![dolfinx-rans banner](https://raw.githubusercontent.com/openfluids/dolfinx-rans/main/assets/dolfinx-rans-readme-banner.png)
+![dolfinx-rans banner](https://raw.githubusercontent.com/openfluids/dolfinx-rans/main/assets/readme-banner-v3.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![DOLFINx](https://img.shields.io/badge/DOLFINx-0.10.0+-green.svg)](https://fenicsproject.org/)
