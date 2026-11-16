@@ -41,9 +41,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ricardofrantz/dolfinx-rans"
-Repository = "https://github.com/ricardofrantz/dolfinx-rans"
-Issues = "https://github.com/ricardofrantz/dolfinx-rans/issues"
+Homepage = "https://github.com/openfluids/dolfinx-rans"
+Repository = "https://github.com/openfluids/dolfinx-rans"
+Issues = "https://github.com/openfluids/dolfinx-rans/issues"
 
 [project.scripts]
 dolfinx-rans = "dolfinx_rans.cli:main"
